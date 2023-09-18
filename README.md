@@ -21,6 +21,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashiie&show_icons=true&locale=en" alt="rashiie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashiie&" alt="rashiie" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rashiie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://visitcount.itsvg.in/api?id=Rashiie&icon=0&color=0)
+
+
 
 
 ![snake gif](https://github.com/Rashiie/Rashiie/blob/output/github-contribution-grid-snake.gif)
