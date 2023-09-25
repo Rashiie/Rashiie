@@ -4,7 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashiie&label=Profile%20views&color=0e75b6&style=flat" alt="rashiie" /> </p>
 
-- 🌱 I’m currently learning **React,js,Node.js**
+- 🌱 I’m currently learning **React.js,Node.js**
+- 👨‍💻 All of my projects are available at [https://new-portfolio.rashiiie.repl.co/](https://new-portfolio.rashiiie.repl.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
