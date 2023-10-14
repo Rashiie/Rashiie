@@ -32,4 +32,4 @@
 
 [![An image of @rashiie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rashiie)](https://holopin.io/@rashiie)
 
-[![An image of @rashiie's Holopin rewards, which is a link to view their full Holopin profile](https://holopin.me/rashiie)](https://www.holopin.io/claim/rewardpack/clnq9e28b13370fl7qi1qtys4)
+[![An image of @rashiie's Holopin rewards, which is a link to view their full Holopin profile](https://www.holopin.io/claim/rewardpack/clnq9e28b13370fl7qi1qtys4)](https://www.holopin.io/claim/rewardpack/clnq9e28b13370fl7qi1qtys4)
